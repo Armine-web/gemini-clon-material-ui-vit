@@ -1,0 +1,47 @@
+.css-yzjoij{
+  display: none;
+}
+
+.MuiTypography-root {
+  display: none;
+}
+
+
+.MuiDrawer-docked .MuiDrawer-paper {
+  border: none;
+  background-color:rgb(245, 242, 242);
+  padding-left: 7px;
+}
+
+.css-k0sogd{
+  justify-content: center;
+}
+
+.MuiListItem-root:nth-child(1){
+  background-color: rgb(226, 224, 224);
+  width: 200px;
+  border-radius: 50px;
+}
+
+.MuiListItem-root:nth-child(2){
+  height: 55vh;
+}
+
+.css-jrtdnu {
+  width: 100px;
+}
+
+.css-jrtdnu li{
+  padding: 0.5px;
+  font-size: 12px;
+}
+.css-jrtdnu .MuiListItem-root:nth-child(1){
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+
+}
+
+.MuiPaper-root-MuiAppBar-root {
+  border: none;
+}
